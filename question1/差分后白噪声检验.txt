@@ -1,0 +1,5 @@
+Portmanteau test for white noise
+---------------------------------------
+ Portmanteau (Q) statistic =   170.5205
+ Prob > chi2(40)           =     0.0000
+

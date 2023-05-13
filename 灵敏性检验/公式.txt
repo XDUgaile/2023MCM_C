@@ -1,0 +1,23 @@
+Arima model
+
+\begin{equation}
+\begin{split}
+y_t=&250.163+0.949y_{t-1}-0.881y_{t-2}+0.783y_{t-3}+\varepsilon _t-1.594\varepsilon _{t-1}+1.748\varepsilon _{t-2}-1.761\varepsilon _{t-3}+1.117\varepsilon _{t-4}-0.285\varepsilon _{t-5}+0.161\varepsilon _{t-6}\\
+&-0.059\varepsilon _{t-7}-0.002\varepsilon _{t-8}-0.305\varepsilon _{t-9}+0.158\varepsilon _{t-10}-0.189\varepsilon _{t-11}+0.377\varepsilon _{t-12}
+\end{split}
+\end{equation}
+
+
+
+Mean Value equation:
+\begin{equation}
+\begin{split}
+y_t=-&50.570+1.778y_{t-1}-1.263y_{t-2}+0.465y_{t-3}+\varepsilon _t--2.391\varepsilon _{t-1}+2.313\varepsilon _{t-2}-1.181\varepsilon _{t-3}+0.263\varepsilon _{t-4}+0.025\varepsilon _{t-5}-0.030\varepsilon _{t-6}\\
+&+0.042\varepsilon _{t-7}-0.079\varepsilon _{t-8}+0.132\varepsilon _{t-9}-0.023\varepsilon _{t-10}+0.304\varepsilon _{t-11}-0.152\varepsilon _{t-12}
+\end{split}
+\end{equation}
+
+Variance equation:
+\begin{equation}
+    \sigma ^2=240813+0.750\sigma ^2_{t-1}+0.237\varepsilon ^2_{t-1}
+\end{equation}

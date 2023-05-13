@@ -1,0 +1,3 @@
+y1=-8739.167 + 152.863×1 try + 169.141×2 tries + 175.642×3 tries + 177.733×4 tries + 170.664×5 tries + 179.317×6 tries + 172.743×7 or more tries (X)
+y2=-8754.238 + 153.61×1 try + 169.251×2 tries + 175.21×3 tries + 178.164×4 tries + 170.975×5 tries + 179.603×6 tries + 173.218×7 or more tries (X)
+y3=-8786.136 + 153.849×1 try + 169.284×2 tries + 175.447×3 tries + 178.103×4 tries + 171.31×5 tries + 180.62×6 tries + 173.859×7 or more tries (X)

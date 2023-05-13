@@ -1,0 +1,25 @@
+Linear model Poly1:
+     f(x) = p1*x + p2
+Coefficients (with 95% confidence bounds):
+       p1 =   1.396e+04  (1.117e+04, 1.675e+04)
+       p2 =   6.202e+04  (4.15e+04, 8.254e+04)
+
+Goodness of fit:
+  SSE: 2.239e+09
+  R-square: 0.9256
+  Adjusted R-square: 0.9182
+  RMSE: 1.496e+04
+  
+1	80630
+2	101503
+3	91477
+4	107134
+5	153880
+6	137586
+7	132726
+8	169484
+9	205880
+10	209609
+11	222197
+12	220950
+

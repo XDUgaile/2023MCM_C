@@ -1,0 +1,11 @@
+Dickey-Fuller test for unit root                   Number of obs   =       358
+
+                               ---------- Interpolated Dickey-Fuller ---------
+                  Test         1% Critical       5% Critical      10% Critical
+               Statistic           Value             Value             Value
+------------------------------------------------------------------------------
+ Z(t)             -1.256            -3.451            -2.876            -2.570
+------------------------------------------------------------------------------
+MacKinnon approximate p-value for Z(t) = 0.6490
+
+0.6490>0.05 非平稳序列

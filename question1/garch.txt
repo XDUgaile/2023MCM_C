@@ -1,0 +1,19 @@
+	Variance Equation			
+				
+C	85736.37	33070.32	2.592547	0.0095
+RESID(-1)^2	0.054217	0.023759	2.281957	0.0225
+GARCH(-1)	0.918080	0.023455	39.14299	0.0000
+
+
+Heteroskedasticity Test: ARCH				
+				
+F-statistic	0.001065	    Prob. F(1,400)		0.9740
+Obs*R-squared	0.001071	    Prob. Chi-Square(1)		0.9739
+
+
+GARCH = C(3) + C(4)*RESID(-1)^2 + C(5)*GARCH(-1)				
+				
+Variable	Coefficient	Std. Error	z-Statistic	Prob.  
+				
+AR(1)	-0.030455	0.097220	-0.313260	0.7541
+MA(1)	-0.527134	0.082099	-6.420675	0.0000
